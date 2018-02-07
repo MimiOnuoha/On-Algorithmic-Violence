@@ -1,4 +1,4 @@
-#Notes on Algorithmic Violence
+# Notes on Algorithmic Violence
 
 *Author: [Mimi Onuoha](mimionuoha.com)* | *Published: 2/7/2018* | *Last update: 2/7/ 2018* 
 
