@@ -1,9 +1,5 @@
 # Notes on Algorithmic Violence
 
-*Published: 2/7/2018* 
-*Last updated: 2/7/ 2018*
-By: *[Mimi Onuoha](mimionuoha.com)* 
-
 In 1969, Johan Galtung coined the phrase "structural violence" to refer to the ways social structures and institutions harm people by preventing them from meeting their fundamental needs.<sup>[1](#footnote1)</sup> The forces that work together to inflict structural violence (things like racism, caste, colonialism, apartheid, transphobia, etc) are often systemic, invisible and intersectional. But crucially, they become embodied as individual experiences. 
 
 Along similar lines, it seems we're overdue for a term that allows us to easily (if imperfectly) articulate some realities of the moment we find ourselves in today. Specifically, we need a phrase that addresses newer, often digital and data-driven forms of inequity. I want to posit the phrase **algorithmic violence**as a first step at articulating these negotiations.<sup>[2](#footnote2)</sup> Algorithmic violence refers to the violence that an algorithm or automated decision-making system inflicts by preventing people from meeting their basic needs. It results from and is amplified by exploitative social, political, and economic systems, but can also be intimately connected to spatially and physically borne effects. 
@@ -23,6 +19,8 @@ As we continue to see the rise of algorithms being used for civic, social, and c
 *A final note: One of the reasons I'm publishing this on Github is because this is a work in progress, with a more thorough follow-up piece to come. In the meantime, if you have feedback or opinions, catch me on [Twitter](https://twitter.com/thistimeitsmimi) (@thistimeitsmimi).*
 
  
+
+*Author*: [Mimi Onuoha](mimionuoha.com) | *Published*: 2/7/2018 |  *Last updated*: 2/7/ 2018
 
 ----
 
