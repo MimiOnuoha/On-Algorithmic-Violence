@@ -1,6 +1,8 @@
 # Notes on Algorithmic Violence
 
-*Author: [Mimi Onuoha](mimionuoha.com)* | *Published: 2/7/2018* | *Last updated: 2/7/ 2018*
+*Published: 2/7/2018* 
+*Last updated: 2/7/ 2018*
+By: *[Mimi Onuoha](mimionuoha.com)* 
 
 In 1969, Johan Galtung coined the phrase "structural violence" to refer to the ways social structures and institutions harm people by preventing them from meeting their fundamental needs.<sup>[1](#footnote1)</sup> The forces that work together to inflict structural violence (things like racism, caste, colonialism, apartheid, transphobia, etc) are often systemic, invisible and intersectional. But crucially, they become embodied as individual experiences. 
 
@@ -29,8 +31,8 @@ As we continue to see the rise of algorithms being used for civic, social, and c
 
 <a name="footnote2">2</a>: Note here that I use violence in the prohibitive sense of the word, e.g. as something that (negatively) shapes the experiences and opportunities experienced by people. This is different from the definition of physical brute force that many think of when they hear the word. While I am well aware of the limitations of the comparison, I refer to definitions of structural violence such as the one from the aptly-named [structrualviolence.org](http://www.structuralviolence.org/structural-violence/): "….the point of the term “structural violence” is to act as an umbrella to encapsulate many different forms of various social and institutional failings that have real, if not always immediately appreciable consequences in peoples’ lives." 
 
-<a name="footnote3">3</a>: This problem has been an ongoing one that has flared up in numerous ways over the years. Some of the groups affected: Indigenous people, trans people, victims of domestic violence.
- 
+<a name="footnote3">3</a>: This has been an ongoing situation that has flared up in numerous ways over the years. Some of the groups affected: indigenous people, trans people, victims of domestic violence.
+
 <a name="footnote4">4</a>: ATS systems are notorious for having specific keyword inputs that employee's resumes must match. See articles like [this one](https://www.themuse.com/advice/beat-the-robots-how-to-get-your-resume-past-the-system-into-human-hands), which place the onus on job seekers to figure out the inputs for these HR systems. 
 
 <a name="footnote5">5</a>: Mary K. Anglin," Feminist Perspectives on Structural Violence" ([paywall](http://www.tandfonline.com/doi/abs/10.1080/1070289X.1998.9962613?journalCode=gide20))
