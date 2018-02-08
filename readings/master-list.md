@@ -34,4 +34,6 @@ I'm breaking all the rules by not doing this in any kind of order or formal cita
 
 - Shoshana Zuboff, "[The Secrets of Surveillance Capitalism](http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/shoshana-zuboff-secrets-of-surveillance-capitalism-14103616.html)"
 
+- Abby Phillip, "[Online 'authenticity' and how Facebook's 'real name' policy hurts Native American](https://www.washingtonpost.com/news/morning-mix/wp/2015/02/10/online-authenticity-and-how-facebooks-real-name-policy-hurts-native-americans/?utm_term=.a1217610ac57)s", Washington Post 
+
   ​
