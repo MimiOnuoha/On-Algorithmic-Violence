@@ -1,8 +1,8 @@
 # Incomplete Reading List
 
-Here are just a few of the pieces that I'm drawing on in the piece. Where possible, I've put the readings in the folder, in other cases I've just included a link.
+Here are just a few of the texts that I'm drawing on in the piece. Where possible, I've put the readings in the folder, in other cases I've included a link.
 
-I'm breaking all the rules by not doing this in any kind of formal citation style, but we're on Github, not an academic journal, so if anyone wants to fix just submit a pull request ;)
+I'm breaking all the rules by not doing this in any kind of order or formal citation style….but we're on Github, so if anyone wants to fix just submit a pull request. :) 
 
 
 
