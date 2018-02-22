@@ -25,7 +25,7 @@ As we continue to see the rise of algorithms being used for civic, social, and c
 ----
 
 
-<a name="footnote1">1</a>: The phrase is commonly attributed to [John Galtung](http://www2.kobe-u.ac.jp/~alexroni/IPD%202015%20readings/IPD%202015_7/Galtung_Violence,%20Peace,%20and%20Peace%20Research.pdf), but has been expanded upon by a number of researchers. The idea of the intersectionality of these different forms of violence comes, of course, from Kimberle Crenshaw. 
+<a name="footnote1">1</a>: The phrase is commonly attributed to [Johan Galtung](http://www2.kobe-u.ac.jp/~alexroni/IPD%202015%20readings/IPD%202015_7/Galtung_Violence,%20Peace,%20and%20Peace%20Research.pdf), but has been expanded upon by a number of researchers. The idea of the intersectionality of these different forms of violence comes, of course, from Kimberle Crenshaw. 
 
 <a name="footnote2">2</a>: Note here that I use violence in the prohibitive sense of the word, e.g. as something that (negatively) shapes the experiences and opportunities experienced by people. This is different from the definition of physical brute force that many think of when they hear the word. While I am well aware of the limitations of the comparison, I refer to definitions of structural violence such as the one from the aptly-named [structrualviolence.org](http://www.structuralviolence.org/structural-violence/): "….the point of the term “structural violence” is to act as an umbrella to encapsulate many different forms of various social and institutional failings that have real, if not always immediately appreciable consequences in peoples’ lives." 
 
